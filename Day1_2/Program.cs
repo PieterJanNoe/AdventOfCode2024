@@ -24,4 +24,5 @@ for (int i = 0; i <= firstRow.Count - 1; i++)
 }
 
 Console.WriteLine("Appierences: {0}", result);
+
 Console.ReadLine();

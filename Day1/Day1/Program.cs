@@ -26,4 +26,5 @@ for (int i = 0; i <= firstRow.Count-1; i++)
 }
 
 Console.WriteLine("Difference: {0}",totalDifference);
+
 Console.ReadLine();
